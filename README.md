@@ -1,4 +1,4 @@
-# Webschool Magazine - javascript
+# Webschool Magazine - JavaScript
 A revista dedicada ao JavaScript a melhor linguagem do mundo.
 
 ## Vanilla
