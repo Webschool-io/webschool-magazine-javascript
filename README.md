@@ -23,6 +23,8 @@ A revista dedicada ao JavaScript a melhor linguagem do mundo.
 
 ## Meteor
 
+## Jogos
+
 ## IoT - internet das Coisas
 
 ## Hardware
